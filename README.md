@@ -174,5 +174,3 @@ Below is a simple ER diagram for the Book Review API:
 - Error responses are standardized via middleware
 
 ---
-
-Feel free to extend this API with more features like user profiles, book cover uploads, or admin controls!
